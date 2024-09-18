@@ -55,10 +55,6 @@ To run this project locally, follow these steps:
 
 The application has been deployed using [Netlify](https://www.netlify.com/). You can view the live version of the app here (https://lineuplist.netlify.app).
 
-## Screenshots
-
-_Add screenshots of your app here, if available._
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
